@@ -1,13 +1,13 @@
 ---
-title: "Welcome to the Sathyanesan Lab"
+title: "MyVivarium: cloud-based colony management"
 layout: splash
 author_profile: false
 header:
    overlay_image: /assets/images/header_try1.png
    overlay_filter: 0.3
    actions:
-          - label: "Join our team"
-            url: "https://sathyanesan-lab.github.io/Join"
+          - label: "<i class="fa fa-github" aria-hidden="true"></i>"
+            url: "https://github.com/myvivarium/MyVivarium"
 ---
 <section id="reactive">
   <div class="splash-header">
