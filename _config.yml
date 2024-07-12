@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "MyVivarium"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : #
 name                     : "Aaron Sathyanesan"
 description              : #""
 url                      : "https://myvivarium.github.io"
@@ -287,4 +287,4 @@ defaults:
       header:
         # image: /assets/images/Cells.jpg
         overlay_image: /assets/images/mm-home-page-feature.webp
-        overlay_filter: 0.3
+        overlay_filter: 0.2

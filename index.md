@@ -1,12 +1,12 @@
 ---
-title: "MyVivarium: cloud-based colony management"
+title: "MyVivarium"
 layout: splash
 author_profile: false
 header:
    overlay_image: assets/images/mm-home-page-feature.webp
    overlay_filter: 0.3
    actions:
-          - label: "<i class="fa fa-github" aria-hidden="true"></i>"
+          - label: "<i class="fa fa-github" title = "github" aria-hidden="true"></i>"
             url: "https://github.com/myvivarium/MyVivarium"
 ---
 <section id="reactive">
