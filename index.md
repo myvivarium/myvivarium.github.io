@@ -17,8 +17,8 @@ header:
       </div>
     </div>
     <div class="splash-block">
-      <h2>Our Goal</h2>
-      <p>We are endlessly fascinated with the <i>cerebellum</i> - a part of the brain that controls adaptive behaviors. Our goal is to define the link between cerebellar circuitry and adaptive behavior, and determine how this link is disrupted in complex brain disorders that arise during development. We approach biological questions from a neuroengineering perspective, combining cutting-edge optical, engineering, and machine-learning tools.</p>
+      <h2>Overview</h2>
+      <p>MyVivarium is an open-source cloud-based web application framework that enables effective, open-source, low-cost animal colony management.</p>
     </div>
   </div>
 </section>
