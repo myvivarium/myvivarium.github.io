@@ -6,7 +6,7 @@ header:
    overlay_image: assets/images/mm-home-page-feature.webp
    overlay_filter: 0.3
    actions:
-          - label: "<i class="fa fa-github"</i> github"
+          - label: "Github"
             url: "https://github.com/myvivarium/MyVivarium"
 ---
 <section id="reactive">
