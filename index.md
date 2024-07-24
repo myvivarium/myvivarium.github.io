@@ -1,13 +1,17 @@
 ---
-title: "MyVivarium web"
+title: <p> MyVivarium <br />
+       Open-source colony management <br />
+       in the cloud </p>
 layout: splash
 author_profile: false
 header:
    overlay_image: assets/images/mm-home-page-feature.webp
    overlay_filter: 0.3
    actions:
-          - label: "Github"
+          - label: "Github Repo"
             url: "https://github.com/myvivarium/MyVivarium"
+          - label: "Wiki"
+            url: "https://github.com/myvivarium/RPi-IoT/wiki"
 ---
 <section id="reactive">
   <div class="splash-header">
