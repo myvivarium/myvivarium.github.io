@@ -1,7 +1,7 @@
 ---
-title: <p> MyVivarium <br />
-       Open-source colony management <br />
-       in the cloud </p>
+title: <p> MyVivarium: <br />
+       Open-source, cloud-based <br />
+       colony management</p>
 layout: splash
 author_profile: false
 header:
