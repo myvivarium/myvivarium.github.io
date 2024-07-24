@@ -1,5 +1,5 @@
 ---
-title: <p> MyVivarium: <br />
+title: <p> "MyVivarium:" <br />
        Open-source, cloud-based <br />
        colony management</p>
 layout: splash
