@@ -1,5 +1,6 @@
 ---
-title: <p>Open-source, cloud-based <br />
+title: <p>Open-source <br />
+       cloud-based <br />
        colony management <br />
        + IoT streaming</p>
 layout: splash
@@ -8,7 +9,7 @@ header:
    overlay_image: assets/images/mm-home-page-feature.webp
    overlay_filter: 0.3
    actions:
-          - label: "Github Repo"
+          - label: "Github Repository"
             url: "https://github.com/myvivarium/MyVivarium"
           - label: "Wiki"
             url: "https://github.com/myvivarium/RPi-IoT/wiki"
