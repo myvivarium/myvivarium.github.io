@@ -1,7 +1,7 @@
 ---
-title: <p> "MyVivarium:" <br />
-       Open-source, cloud-based <br />
-       colony management</p>
+title: <p>Open-source, cloud-based <br />
+       colony management <br />
+       + IoT streaming</p>
 layout: splash
 author_profile: false
 header:
