@@ -1,5 +1,5 @@
 ---
-title: "MyVivarium"
+title: "MyVivarium web"
 layout: splash
 author_profile: false
 header:
