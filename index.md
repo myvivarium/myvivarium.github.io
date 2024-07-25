@@ -1,8 +1,5 @@
 ---
-title: <p>open-source <br />
-       cloud-based <br />
-       colony management <br />
-       + IoT streaming</p>
+title: MyVivarium
 layout: splash
 author_profile: false
 header:
@@ -13,6 +10,8 @@ header:
             url: "https://github.com/myvivarium/MyVivarium"
           - label: <i class="fa-solid fa-play"></i> Get started
             url: "https://github.com/myvivarium/MyVivarium"
+excerpt: >
+  Open-source cloud-based colony management with IoT monitoring of vivarium conditions
 ---
 <section id="reactive">
   <div class="splash-header">
