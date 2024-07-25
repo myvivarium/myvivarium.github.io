@@ -9,7 +9,7 @@ header:
    overlay_image: assets/images/mm-home-page-feature.webp
    overlay_filter: 0.3
    actions:
-          - label: <i class="fa fa-github" aria-hidden="true"></i><br>github
+          - label: <i class="fa fa-github" aria-hidden="true"></i> github
             url: "https://github.com/myvivarium/MyVivarium"
           - label: "Wiki"
             url: "https://github.com/myvivarium/RPi-IoT/wiki"
