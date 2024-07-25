@@ -6,12 +6,15 @@ header:
    overlay_image: assets/images/mm-home-page-feature.webp
    overlay_filter: 0.3
    actions:
-          - label: <i class="fa fa-github" aria-hidden="true"></i> github
+          - label: <i class="fa fa-github" aria-hidden="true"></i> Github
             url: "https://github.com/myvivarium/MyVivarium"
           - label: <i class="fa fa-play-circle" aria-hidden="true"></i> Get started
             url: "https://github.com/myvivarium/MyVivarium"
+          - label: <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Preprint
+            url: "https://github.com/myvivarium/MyVivarium"
 excerpt: >
-  Open-source cloud-based colony management with IoT monitoring of vivarium conditions
+  Open-source cloud-based colony management<br />
+  with IoT monitoring of vivarium conditions
 ---
 <section id="reactive">
   <div class="splash-header">
