@@ -8,7 +8,7 @@ header:
    actions:
           - label: <i class="fa fa-github" aria-hidden="true"></i> github
             url: "https://github.com/myvivarium/MyVivarium"
-          - label: <i class="fa-solid fa-play"></i> Get started
+          - label: <i class="fa fa-play-circle" aria-hidden="true"></i> Get started
             url: "https://github.com/myvivarium/MyVivarium"
 excerpt: >
   Open-source cloud-based colony management with IoT monitoring of vivarium conditions
