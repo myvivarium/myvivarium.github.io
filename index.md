@@ -1,5 +1,5 @@
 ---
-title: <p>Open-source <br />
+title: <p>open-source <br />
        cloud-based <br />
        colony management <br />
        + IoT streaming</p>
@@ -11,8 +11,6 @@ header:
    actions:
           - label: <i class="fa fa-github" aria-hidden="true"></i> github
             url: "https://github.com/myvivarium/MyVivarium"
-          - label: "Wiki"
-            url: "https://github.com/myvivarium/RPi-IoT/wiki"
 ---
 <section id="reactive">
   <div class="splash-header">
