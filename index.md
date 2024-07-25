@@ -11,6 +11,8 @@ header:
    actions:
           - label: <i class="fa fa-github" aria-hidden="true"></i> github
             url: "https://github.com/myvivarium/MyVivarium"
+          - label: <i class="fa-solid fa-play"></i> Get started
+            url: "https://github.com/myvivarium/MyVivarium"
 ---
 <section id="reactive">
   <div class="splash-header">
