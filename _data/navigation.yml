@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Research"
-    url: /Research/
-  - title: "People"
-    url: /People/
-  - title: "Publications"
-    url: /Publications/
+  - title: "Web App Functionalities"
+    url: /Web-App-Functionalities/
+  - title: "IoT Functionalities"
+    url: /IoT/
+  - title: "Installation"
+    url: /Installation/
   - title: "Contact"
     url: /Contact/

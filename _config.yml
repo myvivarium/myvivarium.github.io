@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : UnctionFunction
+  username               : #UnctionFunction
 facebook:
   username               :
   app_id                 :
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aaron Sathyanesan"
+  name             : "Sathyanesan Lab"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Professor"
+  bio              : # "Neuroscience Lab at UD"
   location         : "Dayton, OH"
   email            :
   links:
