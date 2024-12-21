@@ -2,7 +2,7 @@
 title: "Web App Functionalities"
 ---
 
-A gallery of functionalities in a MyVivarium Web App in a desktop browser or a [smartphone browser](/#smartphone-browser)
+A gallery of functionalities in a MyVivarium Web App in a desktop browser or a [smartphone browser](/Web%20App%20Functionalities/#smartphone-browser)
 
 ## Desktop Browser
 
