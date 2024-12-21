@@ -2,8 +2,8 @@
 main:
   - title: "Web App Functionalities"
     url: /Web App Functionalities/
-  - title: "IoT Functionalities"
-    url: /IoT/
+  - title: "RPi-IoT"
+    url: /RPi-IoT/
   - title: "Installation"
     url: /Installation/
   - title: "Contact"
