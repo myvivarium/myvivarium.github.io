@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "MyVivarium"
 title_separator          : "-"
 subtitle                 : #
-name                     : "Aaron Sathyanesan"
+name                     : "Sathyanesan Lab"
 description              : #""
 url                      : "https://myvivarium.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
