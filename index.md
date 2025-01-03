@@ -26,7 +26,7 @@ excerpt: >
     </div>
     <div class="splash-block">
       <h2>Overview</h2>
-      <p>MyVivarium is an open-source cloud-based web application framework that enables effective, open-source, low-cost animal colony management. MyVivarium is not a website but a web <i>framework</i> that enables labs or vivaria to lauch their own personal colony management solution in the cloud using a cloud hosting platform of their choice. This gives individual labs total control over their data and security related to their animal colonies. The IoT components are optional and are not needed to run your MyVivarium web app. Very minimal coding knowledge is required to get started. As long as you can "Copy" and "Paste" you should be good!</p>
+      <p>MyVivarium is an open-source cloud-based web application framework that enables effective, open-source, low-cost animal colony management. MyVivarium is not a website but a web <i>framework</i> that enables labs or vivaria to lauch their own personal colony management solution in the cloud using a cloud hosting platform of their choice. This gives individual labs total control over their data and security related to their animal colonies. The IoT components are optional and are not needed to run your MyVivarium web app. Very minimal coding knowledge is required to get started. As long as you can "Copy" and "Paste" you should be good! Click <a href="https://demo.myvivarium.online/">HERE</a> for a demo of MyVivarium.</p>
     </div>
   </div>
 </section>
