@@ -4,7 +4,7 @@ title: "Web App Functionalities"
 
 A gallery of functionalities in a MyVivarium Web App in a desktop browser or a [smartphone browser](/Web%20App%20Functionalities/#smartphone-browser)
 
-For a live demo of MyVivarium: https://demo.myvivarium.online/
+For a live demo of MyVivarium, click [HERE](https://demo.myvivarium.online/)
 
 ## Desktop Browser
 
