@@ -10,8 +10,8 @@ header:
             url: "https://github.com/myvivarium/MyVivarium"
           - label: <i class="fa fa-play-circle" aria-hidden="true"></i> Get started
             url: "https://github.com/myvivarium/MyVivarium?tab=readme-ov-file#myvivarium"
-          - label: <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Preprint
-            url: "https://www.biorxiv.org/content/10.1101/2024.08.10.607395v1.full"
+          - label: <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Publication
+            url: "https://doi.org/10.1016/j.csbj.2025.01.025"
             
 excerpt: >
   Open-source cloud-based colony management<br />
