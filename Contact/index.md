@@ -6,7 +6,7 @@ If you have a question about MyVivarium regarding installation or would like to 
 If you use MyVivarium, please cite it in your publications under the animals section:
 
 ### Citation
-Vidva, R., Raza, M. A., Prabhakaran, J., Sheikh, A., Sharp, A., Ott, H., Moore, A., Fleisher, C., Pitychoutis, P. M., Nguyen, T. V., & Sathyanesan, A. (2024). MyVivarium: A cloud-based lab animal colony management application with near-realtime ambient sensing. *Computational and Structural Biotechnology Journal*. https://doi.org/10.1016/j.csbj.2025.01.025
+Vidva, R., Raza, M. A., Prabhakaran, J., Sheikh, A., Sharp, A., Ott, H., Moore, A., Fleisher, C., Netherton H., Goldstein E., Pitychoutis, P. M., Nguyen, T. V., & Sathyanesan, A. (2025). MyVivarium: A cloud-based lab animal colony management application with near-realtime ambient sensing. *Computational and Structural Biotechnology Journal*. https://doi.org/10.1016/j.csbj.2025.01.025
 
 ```bibtex
 
